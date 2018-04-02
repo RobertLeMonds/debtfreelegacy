@@ -1,0 +1,171 @@
+body {
+	background-image: url(images/contentBGfade.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color: #1b2849;
+}
+.containerTableColor {
+	background-color: #c1c8da;
+}
+.copyrightCellColor {
+	background-color: #253769;
+}
+.copyrightText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: normal;
+	color: #6474a0;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.copyrightLink a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: normal;
+	color: #6474a0;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.copyrightLink a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: normal;
+	color: #6474a0;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+.leftColumnColor {
+	background-color: #54638d;
+}
+.menuCellColor {
+	background-color: #253769;
+}
+.menuMainLink a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	line-height: 12px;
+	letter-spacing: -1px;
+}
+.menuMainLink a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #f7dc4a;
+	text-decoration: none;
+	line-height: 12px;
+	letter-spacing: -1px;
+}
+.dividerDotColor {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #253769;
+	text-decoration: none;
+	letter-spacing: 2px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+.arial12ptWhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.goldHeader {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	line-height: normal;
+	font-weight: normal;
+	color: #debb01;
+	text-decoration: none;
+	letter-spacing: -1px;
+}
+.contentCellColor {
+	background-color: #FFFFFF;
+	border: 1px solid #54638d;
+}
+table {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.pageTitle {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 28px;
+	line-height: normal;
+	font-weight: normal;
+	color: #CC0000;
+	text-decoration: none;
+}
+.bold {
+	font-weight: bold;
+	color: #253769;
+}
+.boldRed {
+	font-weight: bold;
+	color: #CC0000;
+}
+a {
+	color: #253769;
+	text-decoration: underline;
+}
+a:hover {
+	color: #CC0000;
+	text-decoration: underline;
+}
+.italicRed {
+	font-style: italic;
+	color: #CC0000;
+}
+.subheaderItalic {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 21px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: normal;
+	color: #CC0000;
+	text-decoration: none;
+}
+.articleTitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 21px;
+	font-style: italic;
+	font-weight: bold;
+	color: #CC0000;
+	text-decoration: none;
+	line-height: normal;
+
+}
+.footnote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+.picPaddingRight {
+	padding-right: 15px;
+}
+.picPaddingLeft {
+	padding-left: 15px;
+}
+.boldGreen {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #090;
+}
